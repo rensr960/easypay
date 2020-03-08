@@ -1,0 +1,15 @@
+{shop_url}
+
+Multibanco - EASYPAY
+
+
+
+Caso ainda não tenha feito o pagamento dirija-se a um terminal multibanco e efetue o pagamento com os seguintes dados:
+
+
+Entidade: {entity}
+Referencia: {reference}
+Montante: {monto}
+
+
+Module EASYPAY por TRIGÉNIUS.

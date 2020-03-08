@@ -1,0 +1,7 @@
+{shop_url}
+
+Multibanco - EASYPAY
+
+Foi enviado um requerimento de pagamento ao numero {telemovel} por MBWAY.
+
+Module EASYPAY por TRIGÉNIUS.

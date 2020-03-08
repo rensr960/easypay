@@ -1,0 +1,10 @@
+{shop_url}
+
+Debito Direto - EASYPAY
+
+Vai ser debitado o montante da conta bancaria com os dados:
+Titular da conta: {titular}
+IBAN: {iban}
+Telemovel: {telemovel}
+
+Module EASYPAY por TRIGÉNIUS.

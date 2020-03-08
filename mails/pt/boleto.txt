@@ -1,0 +1,11 @@
+{shop_url}
+
+VISA - EASYPAY
+
+
+
+Caso não tenha concluído a operação com sucesso clique aqui: {URL}
+
+
+
+Module EASYPAY por Trigénius.
